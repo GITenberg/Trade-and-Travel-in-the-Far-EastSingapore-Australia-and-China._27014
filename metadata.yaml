@@ -1,0 +1,31 @@
+_repo: Trade-and-Travel-in-the-Far-EastSingapore-Australia-and-China._27014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davidson, G. F.
+    gutenberg_agent_id: '32397'
+    url: http://www.gutenberg.org/2009/agents/32397
+description: ''
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27014'
+  lccn: '04024463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'East Asia -- Description and travel'
+- !lcsh 'New South Wales -- Description and travel'
+- !lcsh 'East Asia -- Commerce'
+- !lcc 'DS'
+title: 'Trade and Travel in the Far East
+
+  or Recollections of twenty-one years passed in Java,
+
+  Singapore, Australia and China.'
+url: http://www.gutenberg.org/ebooks/27014
