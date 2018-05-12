@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32397'
     url: http://www.gutenberg.org/2009/agents/32397
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27014#Trade-and-Travel-in-the-Far-EastSingapore-Australia-and-China.
 gutenberg_issued: '2008-10-24'
 gutenberg_type: Text
 identifiers:
